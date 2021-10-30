@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../Gradle" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Budget Manager/task" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Most valuable items" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Multiple fields" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Odd and even" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Reverse sorting" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Sort users" />
+            <option value="$PROJECT_DIR$/Topics/Comparator/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Area of a circle" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Distance" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Evaluate an expression" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Exponential expression" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Find X" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Liquid pressure" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Car" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Circle" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Counter" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Iterator and Iterable/Finding the max number" />
+            <option value="$PROJECT_DIR$/Topics/Iterator and Iterable/Hip-Hop" />
+            <option value="$PROJECT_DIR$/Topics/Iterator and Iterable/No  J" />
+            <option value="$PROJECT_DIR$/Topics/Iterator and Iterable/Remove elements of a collection" />
+            <option value="$PROJECT_DIR$/Topics/Iterator and Iterable/Reversed list" />
+            <option value="$PROJECT_DIR$/Topics/Iterator and Iterable/Theory" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/10 days before" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/2 weeks after" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/Convert numbers to days" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/Find all mondays" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/Getting information on a day" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/Print dates of a year with an offset" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/The last day of a month" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Queue and Stack/Creating queue" />
+            <option value="$PROJECT_DIR$/Topics/Queue and Stack/Getting the max element of a stack" />
+            <option value="$PROJECT_DIR$/Topics/Queue and Stack/Html Parser" />
+            <option value="$PROJECT_DIR$/Topics/Queue and Stack/The LIFO principle in action" />
+            <option value="$PROJECT_DIR$/Topics/Queue and Stack/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Queue and Stack/Working with queue" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/A simple calculator" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/From string to a number" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/Shape" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Backward indexes" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Companies" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Count the value occurrences" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Filtering the list" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Greek letters" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/The longest string in the list" />
+            <option value="$PROJECT_DIR$/Topics/The List interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Creating a set" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Output elements" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Removing elements" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Spell checker" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Strict superset" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Symmetric difference" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The main method/Print  Hello, Java_" />
+            <option value="$PROJECT_DIR$/Topics/The main method/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
